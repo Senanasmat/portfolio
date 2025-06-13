@@ -457,7 +457,8 @@ ul li{
         text-align: center;
     }
     .Home-imeage img{
-      width: 50vw;
+      width: 80vw;
+      hieght:80vw;
     }
     .Home-content h1{
         font-size: 3.1rem;

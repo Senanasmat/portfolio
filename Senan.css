@@ -426,7 +426,7 @@ ul li{
     }
     .navbar{
         position: absolute;
-        top: 100%;
+        top: 10%;
         right: 0;
         width: 50%;
         padding: 1rem 3rem;
@@ -435,7 +435,7 @@ ul li{
         border-bottom: 2px solid var(--main--color);
        border-bottom-left-radius: 2.2rem;
        display: none;
-       transition: transform .4s ease-in-out;
+      transition: transform .4s ease-in-out;
     }
     .navbar a{
         display: block;
